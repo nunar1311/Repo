@@ -1,4 +1,10 @@
 {
+    "name": "Nunar_",
+    "subtitle": "Compiled Tweaked Spotify IPA's",
+    "identifier": "",
+    "sourceURL": "https://nunar1311.github.io/repo/app.json",
+    "website": "https://nunar1311.github.io",
+    "iconURL": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png",
     "app": [
         {
             "beta": false,
